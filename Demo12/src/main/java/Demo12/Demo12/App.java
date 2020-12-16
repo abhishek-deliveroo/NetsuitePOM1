@@ -1,9 +1,6 @@
 package Demo12.Demo12;
 
-/**
- * Hello world!
- *
- */
+//Sample 
 public class App 
 {
     public static void main( String[] args )
