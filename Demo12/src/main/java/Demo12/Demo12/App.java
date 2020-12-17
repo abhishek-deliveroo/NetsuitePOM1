@@ -1,6 +1,6 @@
 package Demo12.Demo12;
 
-//Sample Application
+//Sample Application for Netsuite Application
 public class App 
 {
     public static void main( String[] args )
