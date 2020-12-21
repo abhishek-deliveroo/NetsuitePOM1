@@ -1,6 +1,6 @@
 package DemoMavenProject.DemoMavenProject;
 
-//Sample in the Application
+//Sample in the Application for Feature
 public class App 
 {
     public static void main( String[] args )
