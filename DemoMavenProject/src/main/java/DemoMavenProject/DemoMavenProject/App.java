@@ -1,6 +1,6 @@
 package DemoMavenProject.DemoMavenProject;
 
-//Sample in the Application to Feature1 from Master
+//Sample in the Application to Feature1 from Master branch
 public class App 
 {
     public static void main( String[] args )
