@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class BrowserTest
 {
 	@Test
-	public void m1()
+	public void method()
 	{
 		System.setProperty("webdriver.chrome.driver", "C:/Users/Admin1/Desktop/chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
