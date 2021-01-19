@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 
 public class BrowserTest
 {
+	//Comments
 	@Test
 	public void method()
 	{
